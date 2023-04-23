@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-extension Color {
+public extension Color {
 #if os(iOS)
     typealias color = UIColor
 #else

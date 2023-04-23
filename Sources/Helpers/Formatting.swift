@@ -7,7 +7,7 @@
 
 import Foundation
 
-extension Double {
+public extension Double {
     
     //Expected: 1 Hour/ 2 Hours/ 1 Minute/ 2 Minutes
     
